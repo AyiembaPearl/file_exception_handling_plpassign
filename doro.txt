@@ -1,0 +1,5 @@
+This is Dorothy
+Determined and logical
+Plans very well but can be ovewhelmed when dealing 
+with very tight deadlines.
+Let's code with her, learn and teach of all things python file and exception handling today!
